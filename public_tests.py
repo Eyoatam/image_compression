@@ -1,3 +1,5 @@
+# https: // www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/programming/hxhn9/k-means
+
 import numpy as np
 from image_compression import *
 
