@@ -76,7 +76,7 @@ def find_closest_centroids_test(target):
 
     print("\033[92mAll tests passed!")
 
-# test
+# run tests
 
 
 find_closest_centroids_test(find_closest_centroids)
